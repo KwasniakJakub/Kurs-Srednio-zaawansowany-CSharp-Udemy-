@@ -1,1 +1,1 @@
-# Kurs-Srednio-zaawansowany-C-Udemy
+# Kurs-Srednio-zaawansowany-C-Sharp-Udemy
