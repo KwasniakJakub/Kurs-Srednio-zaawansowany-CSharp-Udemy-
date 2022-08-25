@@ -1,1 +1,1 @@
-# Kurs-rednio-zaawansowany-C-
+# Kurs-Srednio-zaawansowany-C-Udemy
