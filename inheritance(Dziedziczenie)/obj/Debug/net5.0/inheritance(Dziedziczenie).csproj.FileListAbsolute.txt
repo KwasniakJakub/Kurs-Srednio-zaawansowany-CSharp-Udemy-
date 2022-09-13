@@ -1,0 +1,16 @@
+D:\DANE\C# Średnio-zaawansowany\inheritance(Dziedziczenie)\bin\Debug\net5.0\inheritance(Dziedziczenie).exe
+D:\DANE\C# Średnio-zaawansowany\inheritance(Dziedziczenie)\bin\Debug\net5.0\inheritance(Dziedziczenie).deps.json
+D:\DANE\C# Średnio-zaawansowany\inheritance(Dziedziczenie)\bin\Debug\net5.0\inheritance(Dziedziczenie).runtimeconfig.json
+D:\DANE\C# Średnio-zaawansowany\inheritance(Dziedziczenie)\bin\Debug\net5.0\inheritance(Dziedziczenie).runtimeconfig.dev.json
+D:\DANE\C# Średnio-zaawansowany\inheritance(Dziedziczenie)\bin\Debug\net5.0\inheritance(Dziedziczenie).dll
+D:\DANE\C# Średnio-zaawansowany\inheritance(Dziedziczenie)\bin\Debug\net5.0\inheritance(Dziedziczenie).pdb
+D:\DANE\C# Średnio-zaawansowany\inheritance(Dziedziczenie)\obj\Debug\net5.0\inheritance(Dziedziczenie).csproj.AssemblyReference.cache
+D:\DANE\C# Średnio-zaawansowany\inheritance(Dziedziczenie)\obj\Debug\net5.0\inheritance(Dziedziczenie).GeneratedMSBuildEditorConfig.editorconfig
+D:\DANE\C# Średnio-zaawansowany\inheritance(Dziedziczenie)\obj\Debug\net5.0\inheritance(Dziedziczenie).AssemblyInfoInputs.cache
+D:\DANE\C# Średnio-zaawansowany\inheritance(Dziedziczenie)\obj\Debug\net5.0\inheritance(Dziedziczenie).AssemblyInfo.cs
+D:\DANE\C# Średnio-zaawansowany\inheritance(Dziedziczenie)\obj\Debug\net5.0\inheritance(Dziedziczenie).csproj.CoreCompileInputs.cache
+D:\DANE\C# Średnio-zaawansowany\inheritance(Dziedziczenie)\obj\Debug\net5.0\inheritance(Dziedziczenie).dll
+D:\DANE\C# Średnio-zaawansowany\inheritance(Dziedziczenie)\obj\Debug\net5.0\refint\inheritance(Dziedziczenie).dll
+D:\DANE\C# Średnio-zaawansowany\inheritance(Dziedziczenie)\obj\Debug\net5.0\inheritance(Dziedziczenie).pdb
+D:\DANE\C# Średnio-zaawansowany\inheritance(Dziedziczenie)\obj\Debug\net5.0\inheritance(Dziedziczenie).genruntimeconfig.cache
+D:\DANE\C# Średnio-zaawansowany\inheritance(Dziedziczenie)\obj\Debug\net5.0\ref\inheritance(Dziedziczenie).dll

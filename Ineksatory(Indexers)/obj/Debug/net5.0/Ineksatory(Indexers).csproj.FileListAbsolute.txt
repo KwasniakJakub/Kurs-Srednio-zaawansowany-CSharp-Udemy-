@@ -1,0 +1,16 @@
+D:\DANE\C# Średnio-zaawansowany\Ineksatory(Indexers)\bin\Debug\net5.0\Ineksatory(Indexers).exe
+D:\DANE\C# Średnio-zaawansowany\Ineksatory(Indexers)\bin\Debug\net5.0\Ineksatory(Indexers).deps.json
+D:\DANE\C# Średnio-zaawansowany\Ineksatory(Indexers)\bin\Debug\net5.0\Ineksatory(Indexers).runtimeconfig.json
+D:\DANE\C# Średnio-zaawansowany\Ineksatory(Indexers)\bin\Debug\net5.0\Ineksatory(Indexers).runtimeconfig.dev.json
+D:\DANE\C# Średnio-zaawansowany\Ineksatory(Indexers)\bin\Debug\net5.0\Ineksatory(Indexers).dll
+D:\DANE\C# Średnio-zaawansowany\Ineksatory(Indexers)\bin\Debug\net5.0\Ineksatory(Indexers).pdb
+D:\DANE\C# Średnio-zaawansowany\Ineksatory(Indexers)\obj\Debug\net5.0\Ineksatory(Indexers).csproj.AssemblyReference.cache
+D:\DANE\C# Średnio-zaawansowany\Ineksatory(Indexers)\obj\Debug\net5.0\Ineksatory(Indexers).GeneratedMSBuildEditorConfig.editorconfig
+D:\DANE\C# Średnio-zaawansowany\Ineksatory(Indexers)\obj\Debug\net5.0\Ineksatory(Indexers).AssemblyInfoInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Ineksatory(Indexers)\obj\Debug\net5.0\Ineksatory(Indexers).AssemblyInfo.cs
+D:\DANE\C# Średnio-zaawansowany\Ineksatory(Indexers)\obj\Debug\net5.0\Ineksatory(Indexers).csproj.CoreCompileInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Ineksatory(Indexers)\obj\Debug\net5.0\Ineksatory(Indexers).dll
+D:\DANE\C# Średnio-zaawansowany\Ineksatory(Indexers)\obj\Debug\net5.0\refint\Ineksatory(Indexers).dll
+D:\DANE\C# Średnio-zaawansowany\Ineksatory(Indexers)\obj\Debug\net5.0\Ineksatory(Indexers).pdb
+D:\DANE\C# Średnio-zaawansowany\Ineksatory(Indexers)\obj\Debug\net5.0\Ineksatory(Indexers).genruntimeconfig.cache
+D:\DANE\C# Średnio-zaawansowany\Ineksatory(Indexers)\obj\Debug\net5.0\ref\Ineksatory(Indexers).dll
