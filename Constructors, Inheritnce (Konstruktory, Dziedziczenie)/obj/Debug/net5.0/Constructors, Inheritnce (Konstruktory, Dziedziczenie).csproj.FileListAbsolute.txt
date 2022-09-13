@@ -1,0 +1,16 @@
+D:\DANE\C# Średnio-zaawansowany\Constructors, Inheritnce (Konstruktory, Dziedziczenie)\bin\Debug\net5.0\Constructors, Inheritnce (Konstruktory, Dziedziczenie).exe
+D:\DANE\C# Średnio-zaawansowany\Constructors, Inheritnce (Konstruktory, Dziedziczenie)\bin\Debug\net5.0\Constructors, Inheritnce (Konstruktory, Dziedziczenie).deps.json
+D:\DANE\C# Średnio-zaawansowany\Constructors, Inheritnce (Konstruktory, Dziedziczenie)\bin\Debug\net5.0\Constructors, Inheritnce (Konstruktory, Dziedziczenie).runtimeconfig.json
+D:\DANE\C# Średnio-zaawansowany\Constructors, Inheritnce (Konstruktory, Dziedziczenie)\bin\Debug\net5.0\Constructors, Inheritnce (Konstruktory, Dziedziczenie).runtimeconfig.dev.json
+D:\DANE\C# Średnio-zaawansowany\Constructors, Inheritnce (Konstruktory, Dziedziczenie)\bin\Debug\net5.0\Constructors, Inheritnce (Konstruktory, Dziedziczenie).dll
+D:\DANE\C# Średnio-zaawansowany\Constructors, Inheritnce (Konstruktory, Dziedziczenie)\bin\Debug\net5.0\Constructors, Inheritnce (Konstruktory, Dziedziczenie).pdb
+D:\DANE\C# Średnio-zaawansowany\Constructors, Inheritnce (Konstruktory, Dziedziczenie)\obj\Debug\net5.0\Constructors, Inheritnce (Konstruktory, Dziedziczenie).csproj.AssemblyReference.cache
+D:\DANE\C# Średnio-zaawansowany\Constructors, Inheritnce (Konstruktory, Dziedziczenie)\obj\Debug\net5.0\Constructors, Inheritnce (Konstruktory, Dziedziczenie).GeneratedMSBuildEditorConfig.editorconfig
+D:\DANE\C# Średnio-zaawansowany\Constructors, Inheritnce (Konstruktory, Dziedziczenie)\obj\Debug\net5.0\Constructors, Inheritnce (Konstruktory, Dziedziczenie).AssemblyInfoInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Constructors, Inheritnce (Konstruktory, Dziedziczenie)\obj\Debug\net5.0\Constructors, Inheritnce (Konstruktory, Dziedziczenie).AssemblyInfo.cs
+D:\DANE\C# Średnio-zaawansowany\Constructors, Inheritnce (Konstruktory, Dziedziczenie)\obj\Debug\net5.0\Constructors, Inheritnce (Konstruktory, Dziedziczenie).csproj.CoreCompileInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Constructors, Inheritnce (Konstruktory, Dziedziczenie)\obj\Debug\net5.0\Constructors, Inheritnce (Konstruktory, Dziedziczenie).dll
+D:\DANE\C# Średnio-zaawansowany\Constructors, Inheritnce (Konstruktory, Dziedziczenie)\obj\Debug\net5.0\refint\Constructors, Inheritnce (Konstruktory, Dziedziczenie).dll
+D:\DANE\C# Średnio-zaawansowany\Constructors, Inheritnce (Konstruktory, Dziedziczenie)\obj\Debug\net5.0\Constructors, Inheritnce (Konstruktory, Dziedziczenie).pdb
+D:\DANE\C# Średnio-zaawansowany\Constructors, Inheritnce (Konstruktory, Dziedziczenie)\obj\Debug\net5.0\Constructors, Inheritnce (Konstruktory, Dziedziczenie).genruntimeconfig.cache
+D:\DANE\C# Średnio-zaawansowany\Constructors, Inheritnce (Konstruktory, Dziedziczenie)\obj\Debug\net5.0\ref\Constructors, Inheritnce (Konstruktory, Dziedziczenie).dll

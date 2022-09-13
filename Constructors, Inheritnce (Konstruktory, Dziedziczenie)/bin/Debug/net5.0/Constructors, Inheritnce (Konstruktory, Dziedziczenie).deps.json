@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Constructors, Inheritnce (Konstruktory, Dziedziczenie)/1.0.0": {
+        "runtime": {
+          "Constructors, Inheritnce (Konstruktory, Dziedziczenie).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Constructors, Inheritnce (Konstruktory, Dziedziczenie)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
