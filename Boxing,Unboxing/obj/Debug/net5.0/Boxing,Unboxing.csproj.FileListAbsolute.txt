@@ -1,0 +1,16 @@
+D:\DANE\C# Średnio-zaawansowany\Boxing,Unboxing\bin\Debug\net5.0\Boxing,Unboxing.exe
+D:\DANE\C# Średnio-zaawansowany\Boxing,Unboxing\bin\Debug\net5.0\Boxing,Unboxing.deps.json
+D:\DANE\C# Średnio-zaawansowany\Boxing,Unboxing\bin\Debug\net5.0\Boxing,Unboxing.runtimeconfig.json
+D:\DANE\C# Średnio-zaawansowany\Boxing,Unboxing\bin\Debug\net5.0\Boxing,Unboxing.runtimeconfig.dev.json
+D:\DANE\C# Średnio-zaawansowany\Boxing,Unboxing\bin\Debug\net5.0\Boxing,Unboxing.dll
+D:\DANE\C# Średnio-zaawansowany\Boxing,Unboxing\bin\Debug\net5.0\Boxing,Unboxing.pdb
+D:\DANE\C# Średnio-zaawansowany\Boxing,Unboxing\obj\Debug\net5.0\Boxing,Unboxing.csproj.AssemblyReference.cache
+D:\DANE\C# Średnio-zaawansowany\Boxing,Unboxing\obj\Debug\net5.0\Boxing,Unboxing.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANE\C# Średnio-zaawansowany\Boxing,Unboxing\obj\Debug\net5.0\Boxing,Unboxing.AssemblyInfoInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Boxing,Unboxing\obj\Debug\net5.0\Boxing,Unboxing.AssemblyInfo.cs
+D:\DANE\C# Średnio-zaawansowany\Boxing,Unboxing\obj\Debug\net5.0\Boxing,Unboxing.csproj.CoreCompileInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Boxing,Unboxing\obj\Debug\net5.0\Boxing,Unboxing.dll
+D:\DANE\C# Średnio-zaawansowany\Boxing,Unboxing\obj\Debug\net5.0\refint\Boxing,Unboxing.dll
+D:\DANE\C# Średnio-zaawansowany\Boxing,Unboxing\obj\Debug\net5.0\Boxing,Unboxing.pdb
+D:\DANE\C# Średnio-zaawansowany\Boxing,Unboxing\obj\Debug\net5.0\Boxing,Unboxing.genruntimeconfig.cache
+D:\DANE\C# Średnio-zaawansowany\Boxing,Unboxing\obj\Debug\net5.0\ref\Boxing,Unboxing.dll
