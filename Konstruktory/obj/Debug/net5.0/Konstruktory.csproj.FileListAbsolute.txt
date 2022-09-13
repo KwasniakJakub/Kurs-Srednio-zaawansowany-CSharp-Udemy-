@@ -1,0 +1,16 @@
+D:\DANE\C# Średnio-zaawansowany\Konstruktory\bin\Debug\net5.0\Konstruktory.exe
+D:\DANE\C# Średnio-zaawansowany\Konstruktory\bin\Debug\net5.0\Konstruktory.deps.json
+D:\DANE\C# Średnio-zaawansowany\Konstruktory\bin\Debug\net5.0\Konstruktory.runtimeconfig.json
+D:\DANE\C# Średnio-zaawansowany\Konstruktory\bin\Debug\net5.0\Konstruktory.runtimeconfig.dev.json
+D:\DANE\C# Średnio-zaawansowany\Konstruktory\bin\Debug\net5.0\Konstruktory.dll
+D:\DANE\C# Średnio-zaawansowany\Konstruktory\bin\Debug\net5.0\Konstruktory.pdb
+D:\DANE\C# Średnio-zaawansowany\Konstruktory\obj\Debug\net5.0\Konstruktory.csproj.AssemblyReference.cache
+D:\DANE\C# Średnio-zaawansowany\Konstruktory\obj\Debug\net5.0\Konstruktory.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANE\C# Średnio-zaawansowany\Konstruktory\obj\Debug\net5.0\Konstruktory.AssemblyInfoInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Konstruktory\obj\Debug\net5.0\Konstruktory.AssemblyInfo.cs
+D:\DANE\C# Średnio-zaawansowany\Konstruktory\obj\Debug\net5.0\Konstruktory.csproj.CoreCompileInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Konstruktory\obj\Debug\net5.0\Konstruktory.dll
+D:\DANE\C# Średnio-zaawansowany\Konstruktory\obj\Debug\net5.0\refint\Konstruktory.dll
+D:\DANE\C# Średnio-zaawansowany\Konstruktory\obj\Debug\net5.0\Konstruktory.pdb
+D:\DANE\C# Średnio-zaawansowany\Konstruktory\obj\Debug\net5.0\Konstruktory.genruntimeconfig.cache
+D:\DANE\C# Średnio-zaawansowany\Konstruktory\obj\Debug\net5.0\ref\Konstruktory.dll

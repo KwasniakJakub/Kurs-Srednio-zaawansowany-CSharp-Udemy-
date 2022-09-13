@@ -1,0 +1,16 @@
+D:\DANE\C# Średnio-zaawansowany\Metody\bin\Debug\net5.0\Metody.exe
+D:\DANE\C# Średnio-zaawansowany\Metody\bin\Debug\net5.0\Metody.deps.json
+D:\DANE\C# Średnio-zaawansowany\Metody\bin\Debug\net5.0\Metody.runtimeconfig.json
+D:\DANE\C# Średnio-zaawansowany\Metody\bin\Debug\net5.0\Metody.runtimeconfig.dev.json
+D:\DANE\C# Średnio-zaawansowany\Metody\bin\Debug\net5.0\Metody.dll
+D:\DANE\C# Średnio-zaawansowany\Metody\bin\Debug\net5.0\Metody.pdb
+D:\DANE\C# Średnio-zaawansowany\Metody\obj\Debug\net5.0\Metody.csproj.AssemblyReference.cache
+D:\DANE\C# Średnio-zaawansowany\Metody\obj\Debug\net5.0\Metody.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANE\C# Średnio-zaawansowany\Metody\obj\Debug\net5.0\Metody.AssemblyInfoInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Metody\obj\Debug\net5.0\Metody.AssemblyInfo.cs
+D:\DANE\C# Średnio-zaawansowany\Metody\obj\Debug\net5.0\Metody.csproj.CoreCompileInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Metody\obj\Debug\net5.0\Metody.dll
+D:\DANE\C# Średnio-zaawansowany\Metody\obj\Debug\net5.0\refint\Metody.dll
+D:\DANE\C# Średnio-zaawansowany\Metody\obj\Debug\net5.0\Metody.pdb
+D:\DANE\C# Średnio-zaawansowany\Metody\obj\Debug\net5.0\Metody.genruntimeconfig.cache
+D:\DANE\C# Średnio-zaawansowany\Metody\obj\Debug\net5.0\ref\Metody.dll

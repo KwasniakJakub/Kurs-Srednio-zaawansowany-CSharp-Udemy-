@@ -1,0 +1,16 @@
+D:\DANE\C# Średnio-zaawansowany\Wprowadzenie do Klas\bin\Debug\net5.0\Wprowadzenie do Klas.exe
+D:\DANE\C# Średnio-zaawansowany\Wprowadzenie do Klas\bin\Debug\net5.0\Wprowadzenie do Klas.deps.json
+D:\DANE\C# Średnio-zaawansowany\Wprowadzenie do Klas\bin\Debug\net5.0\Wprowadzenie do Klas.runtimeconfig.json
+D:\DANE\C# Średnio-zaawansowany\Wprowadzenie do Klas\bin\Debug\net5.0\Wprowadzenie do Klas.runtimeconfig.dev.json
+D:\DANE\C# Średnio-zaawansowany\Wprowadzenie do Klas\bin\Debug\net5.0\Wprowadzenie do Klas.dll
+D:\DANE\C# Średnio-zaawansowany\Wprowadzenie do Klas\bin\Debug\net5.0\Wprowadzenie do Klas.pdb
+D:\DANE\C# Średnio-zaawansowany\Wprowadzenie do Klas\obj\Debug\net5.0\Wprowadzenie do Klas.csproj.AssemblyReference.cache
+D:\DANE\C# Średnio-zaawansowany\Wprowadzenie do Klas\obj\Debug\net5.0\Wprowadzenie do Klas.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANE\C# Średnio-zaawansowany\Wprowadzenie do Klas\obj\Debug\net5.0\Wprowadzenie do Klas.AssemblyInfoInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Wprowadzenie do Klas\obj\Debug\net5.0\Wprowadzenie do Klas.AssemblyInfo.cs
+D:\DANE\C# Średnio-zaawansowany\Wprowadzenie do Klas\obj\Debug\net5.0\Wprowadzenie do Klas.csproj.CoreCompileInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Wprowadzenie do Klas\obj\Debug\net5.0\Wprowadzenie do Klas.dll
+D:\DANE\C# Średnio-zaawansowany\Wprowadzenie do Klas\obj\Debug\net5.0\refint\Wprowadzenie do Klas.dll
+D:\DANE\C# Średnio-zaawansowany\Wprowadzenie do Klas\obj\Debug\net5.0\Wprowadzenie do Klas.pdb
+D:\DANE\C# Średnio-zaawansowany\Wprowadzenie do Klas\obj\Debug\net5.0\Wprowadzenie do Klas.genruntimeconfig.cache
+D:\DANE\C# Średnio-zaawansowany\Wprowadzenie do Klas\obj\Debug\net5.0\ref\Wprowadzenie do Klas.dll
