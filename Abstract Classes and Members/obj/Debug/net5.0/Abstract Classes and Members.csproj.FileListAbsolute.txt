@@ -1,0 +1,16 @@
+D:\DANE\C# Średnio-zaawansowany\Abstract Classes and Members\bin\Debug\net5.0\Abstract Classes and Members.exe
+D:\DANE\C# Średnio-zaawansowany\Abstract Classes and Members\bin\Debug\net5.0\Abstract Classes and Members.deps.json
+D:\DANE\C# Średnio-zaawansowany\Abstract Classes and Members\bin\Debug\net5.0\Abstract Classes and Members.runtimeconfig.json
+D:\DANE\C# Średnio-zaawansowany\Abstract Classes and Members\bin\Debug\net5.0\Abstract Classes and Members.runtimeconfig.dev.json
+D:\DANE\C# Średnio-zaawansowany\Abstract Classes and Members\bin\Debug\net5.0\Abstract Classes and Members.dll
+D:\DANE\C# Średnio-zaawansowany\Abstract Classes and Members\bin\Debug\net5.0\Abstract Classes and Members.pdb
+D:\DANE\C# Średnio-zaawansowany\Abstract Classes and Members\obj\Debug\net5.0\Abstract Classes and Members.csproj.AssemblyReference.cache
+D:\DANE\C# Średnio-zaawansowany\Abstract Classes and Members\obj\Debug\net5.0\Abstract Classes and Members.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANE\C# Średnio-zaawansowany\Abstract Classes and Members\obj\Debug\net5.0\Abstract Classes and Members.AssemblyInfoInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Abstract Classes and Members\obj\Debug\net5.0\Abstract Classes and Members.AssemblyInfo.cs
+D:\DANE\C# Średnio-zaawansowany\Abstract Classes and Members\obj\Debug\net5.0\Abstract Classes and Members.csproj.CoreCompileInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Abstract Classes and Members\obj\Debug\net5.0\Abstract Classes and Members.dll
+D:\DANE\C# Średnio-zaawansowany\Abstract Classes and Members\obj\Debug\net5.0\refint\Abstract Classes and Members.dll
+D:\DANE\C# Średnio-zaawansowany\Abstract Classes and Members\obj\Debug\net5.0\Abstract Classes and Members.pdb
+D:\DANE\C# Średnio-zaawansowany\Abstract Classes and Members\obj\Debug\net5.0\Abstract Classes and Members.genruntimeconfig.cache
+D:\DANE\C# Średnio-zaawansowany\Abstract Classes and Members\obj\Debug\net5.0\ref\Abstract Classes and Members.dll
