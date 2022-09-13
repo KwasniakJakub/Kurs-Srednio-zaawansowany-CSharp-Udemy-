@@ -1,0 +1,16 @@
+D:\DANE\C# Średnio-zaawansowany\Właściwości(Properties)\bin\Debug\net5.0\Właściwości(Properties).exe
+D:\DANE\C# Średnio-zaawansowany\Właściwości(Properties)\bin\Debug\net5.0\Właściwości(Properties).deps.json
+D:\DANE\C# Średnio-zaawansowany\Właściwości(Properties)\bin\Debug\net5.0\Właściwości(Properties).runtimeconfig.json
+D:\DANE\C# Średnio-zaawansowany\Właściwości(Properties)\bin\Debug\net5.0\Właściwości(Properties).runtimeconfig.dev.json
+D:\DANE\C# Średnio-zaawansowany\Właściwości(Properties)\bin\Debug\net5.0\Właściwości(Properties).dll
+D:\DANE\C# Średnio-zaawansowany\Właściwości(Properties)\bin\Debug\net5.0\Właściwości(Properties).pdb
+D:\DANE\C# Średnio-zaawansowany\Właściwości(Properties)\obj\Debug\net5.0\Właściwości(Properties).csproj.AssemblyReference.cache
+D:\DANE\C# Średnio-zaawansowany\Właściwości(Properties)\obj\Debug\net5.0\Właściwości(Properties).GeneratedMSBuildEditorConfig.editorconfig
+D:\DANE\C# Średnio-zaawansowany\Właściwości(Properties)\obj\Debug\net5.0\Właściwości(Properties).AssemblyInfoInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Właściwości(Properties)\obj\Debug\net5.0\Właściwości(Properties).AssemblyInfo.cs
+D:\DANE\C# Średnio-zaawansowany\Właściwości(Properties)\obj\Debug\net5.0\Właściwości(Properties).csproj.CoreCompileInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Właściwości(Properties)\obj\Debug\net5.0\Właściwości(Properties).dll
+D:\DANE\C# Średnio-zaawansowany\Właściwości(Properties)\obj\Debug\net5.0\refint\Właściwości(Properties).dll
+D:\DANE\C# Średnio-zaawansowany\Właściwości(Properties)\obj\Debug\net5.0\Właściwości(Properties).pdb
+D:\DANE\C# Średnio-zaawansowany\Właściwości(Properties)\obj\Debug\net5.0\Właściwości(Properties).genruntimeconfig.cache
+D:\DANE\C# Średnio-zaawansowany\Właściwości(Properties)\obj\Debug\net5.0\ref\Właściwości(Properties).dll

@@ -1,0 +1,16 @@
+D:\DANE\C# Średnio-zaawansowany\Pola(Fields)\bin\Debug\net5.0\Pola(Fields).exe
+D:\DANE\C# Średnio-zaawansowany\Pola(Fields)\bin\Debug\net5.0\Pola(Fields).deps.json
+D:\DANE\C# Średnio-zaawansowany\Pola(Fields)\bin\Debug\net5.0\Pola(Fields).runtimeconfig.json
+D:\DANE\C# Średnio-zaawansowany\Pola(Fields)\bin\Debug\net5.0\Pola(Fields).runtimeconfig.dev.json
+D:\DANE\C# Średnio-zaawansowany\Pola(Fields)\bin\Debug\net5.0\Pola(Fields).dll
+D:\DANE\C# Średnio-zaawansowany\Pola(Fields)\bin\Debug\net5.0\Pola(Fields).pdb
+D:\DANE\C# Średnio-zaawansowany\Pola(Fields)\obj\Debug\net5.0\Pola(Fields).csproj.AssemblyReference.cache
+D:\DANE\C# Średnio-zaawansowany\Pola(Fields)\obj\Debug\net5.0\Pola(Fields).GeneratedMSBuildEditorConfig.editorconfig
+D:\DANE\C# Średnio-zaawansowany\Pola(Fields)\obj\Debug\net5.0\Pola(Fields).AssemblyInfoInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Pola(Fields)\obj\Debug\net5.0\Pola(Fields).AssemblyInfo.cs
+D:\DANE\C# Średnio-zaawansowany\Pola(Fields)\obj\Debug\net5.0\Pola(Fields).csproj.CoreCompileInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Pola(Fields)\obj\Debug\net5.0\Pola(Fields).dll
+D:\DANE\C# Średnio-zaawansowany\Pola(Fields)\obj\Debug\net5.0\refint\Pola(Fields).dll
+D:\DANE\C# Średnio-zaawansowany\Pola(Fields)\obj\Debug\net5.0\Pola(Fields).pdb
+D:\DANE\C# Średnio-zaawansowany\Pola(Fields)\obj\Debug\net5.0\Pola(Fields).genruntimeconfig.cache
+D:\DANE\C# Średnio-zaawansowany\Pola(Fields)\obj\Debug\net5.0\ref\Pola(Fields).dll
