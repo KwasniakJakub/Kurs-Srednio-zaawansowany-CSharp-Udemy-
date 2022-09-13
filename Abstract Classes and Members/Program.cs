@@ -1,4 +1,4 @@
-﻿using Microsoft.VisualBasic;
+using Microsoft.VisualBasic;
 
 namespace Abstract_Classes_and_Members
 {
@@ -14,6 +14,8 @@ namespace Abstract_Classes_and_Members
     {
         static void Main(string[] args)
         {
+            //var shape = new Shape(); Nie można utworzyć, ponieważ Shape jest abstrakcyjny 
+
             var circle = new Circle();
             circle.Draw();
             var rectangle = new Rectangle();
