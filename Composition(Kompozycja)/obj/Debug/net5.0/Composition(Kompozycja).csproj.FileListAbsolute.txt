@@ -1,0 +1,16 @@
+D:\DANE\C# Średnio-zaawansowany\Composition(Kompozycja)\bin\Debug\net5.0\Composition(Kompozycja).exe
+D:\DANE\C# Średnio-zaawansowany\Composition(Kompozycja)\bin\Debug\net5.0\Composition(Kompozycja).deps.json
+D:\DANE\C# Średnio-zaawansowany\Composition(Kompozycja)\bin\Debug\net5.0\Composition(Kompozycja).runtimeconfig.json
+D:\DANE\C# Średnio-zaawansowany\Composition(Kompozycja)\bin\Debug\net5.0\Composition(Kompozycja).runtimeconfig.dev.json
+D:\DANE\C# Średnio-zaawansowany\Composition(Kompozycja)\bin\Debug\net5.0\Composition(Kompozycja).dll
+D:\DANE\C# Średnio-zaawansowany\Composition(Kompozycja)\bin\Debug\net5.0\Composition(Kompozycja).pdb
+D:\DANE\C# Średnio-zaawansowany\Composition(Kompozycja)\obj\Debug\net5.0\Composition(Kompozycja).csproj.AssemblyReference.cache
+D:\DANE\C# Średnio-zaawansowany\Composition(Kompozycja)\obj\Debug\net5.0\Composition(Kompozycja).GeneratedMSBuildEditorConfig.editorconfig
+D:\DANE\C# Średnio-zaawansowany\Composition(Kompozycja)\obj\Debug\net5.0\Composition(Kompozycja).AssemblyInfoInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Composition(Kompozycja)\obj\Debug\net5.0\Composition(Kompozycja).AssemblyInfo.cs
+D:\DANE\C# Średnio-zaawansowany\Composition(Kompozycja)\obj\Debug\net5.0\Composition(Kompozycja).csproj.CoreCompileInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Composition(Kompozycja)\obj\Debug\net5.0\Composition(Kompozycja).dll
+D:\DANE\C# Średnio-zaawansowany\Composition(Kompozycja)\obj\Debug\net5.0\refint\Composition(Kompozycja).dll
+D:\DANE\C# Średnio-zaawansowany\Composition(Kompozycja)\obj\Debug\net5.0\Composition(Kompozycja).pdb
+D:\DANE\C# Średnio-zaawansowany\Composition(Kompozycja)\obj\Debug\net5.0\Composition(Kompozycja).genruntimeconfig.cache
+D:\DANE\C# Średnio-zaawansowany\Composition(Kompozycja)\obj\Debug\net5.0\ref\Composition(Kompozycja).dll
