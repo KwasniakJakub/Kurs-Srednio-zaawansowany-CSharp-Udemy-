@@ -1,0 +1,16 @@
+D:\DANE\C# Średnio-zaawansowany\Interface and Testability\obj\Debug\net5.0\Interface and Testability.csproj.AssemblyReference.cache
+D:\DANE\C# Średnio-zaawansowany\Interface and Testability\obj\Debug\net5.0\Interface and Testability.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANE\C# Średnio-zaawansowany\Interface and Testability\obj\Debug\net5.0\Interface and Testability.AssemblyInfoInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Interface and Testability\obj\Debug\net5.0\Interface and Testability.AssemblyInfo.cs
+D:\DANE\C# Średnio-zaawansowany\Interface and Testability\obj\Debug\net5.0\Interface and Testability.csproj.CoreCompileInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Interface and Testability\bin\Debug\net5.0\Interface and Testability.exe
+D:\DANE\C# Średnio-zaawansowany\Interface and Testability\bin\Debug\net5.0\Interface and Testability.deps.json
+D:\DANE\C# Średnio-zaawansowany\Interface and Testability\bin\Debug\net5.0\Interface and Testability.runtimeconfig.json
+D:\DANE\C# Średnio-zaawansowany\Interface and Testability\bin\Debug\net5.0\Interface and Testability.runtimeconfig.dev.json
+D:\DANE\C# Średnio-zaawansowany\Interface and Testability\bin\Debug\net5.0\Interface and Testability.dll
+D:\DANE\C# Średnio-zaawansowany\Interface and Testability\bin\Debug\net5.0\Interface and Testability.pdb
+D:\DANE\C# Średnio-zaawansowany\Interface and Testability\obj\Debug\net5.0\Interface and Testability.dll
+D:\DANE\C# Średnio-zaawansowany\Interface and Testability\obj\Debug\net5.0\refint\Interface and Testability.dll
+D:\DANE\C# Średnio-zaawansowany\Interface and Testability\obj\Debug\net5.0\Interface and Testability.pdb
+D:\DANE\C# Średnio-zaawansowany\Interface and Testability\obj\Debug\net5.0\Interface and Testability.genruntimeconfig.cache
+D:\DANE\C# Średnio-zaawansowany\Interface and Testability\obj\Debug\net5.0\ref\Interface and Testability.dll
