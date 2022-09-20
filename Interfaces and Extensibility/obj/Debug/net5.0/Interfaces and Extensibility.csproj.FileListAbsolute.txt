@@ -1,0 +1,16 @@
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Extensibility\bin\Debug\net5.0\Interfaces and Extensibility.exe
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Extensibility\bin\Debug\net5.0\Interfaces and Extensibility.deps.json
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Extensibility\bin\Debug\net5.0\Interfaces and Extensibility.runtimeconfig.json
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Extensibility\bin\Debug\net5.0\Interfaces and Extensibility.runtimeconfig.dev.json
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Extensibility\bin\Debug\net5.0\Interfaces and Extensibility.dll
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Extensibility\bin\Debug\net5.0\Interfaces and Extensibility.pdb
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Extensibility\obj\Debug\net5.0\Interfaces and Extensibility.csproj.AssemblyReference.cache
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Extensibility\obj\Debug\net5.0\Interfaces and Extensibility.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Extensibility\obj\Debug\net5.0\Interfaces and Extensibility.AssemblyInfoInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Extensibility\obj\Debug\net5.0\Interfaces and Extensibility.AssemblyInfo.cs
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Extensibility\obj\Debug\net5.0\Interfaces and Extensibility.csproj.CoreCompileInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Extensibility\obj\Debug\net5.0\Interfaces and Extensibility.dll
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Extensibility\obj\Debug\net5.0\refint\Interfaces and Extensibility.dll
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Extensibility\obj\Debug\net5.0\Interfaces and Extensibility.pdb
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Extensibility\obj\Debug\net5.0\Interfaces and Extensibility.genruntimeconfig.cache
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Extensibility\obj\Debug\net5.0\ref\Interfaces and Extensibility.dll

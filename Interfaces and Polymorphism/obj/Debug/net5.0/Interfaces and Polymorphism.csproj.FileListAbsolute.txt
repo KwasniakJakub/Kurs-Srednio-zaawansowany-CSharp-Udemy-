@@ -1,0 +1,16 @@
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Polymorphism\bin\Debug\net5.0\Interfaces and Polymorphism.exe
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Polymorphism\bin\Debug\net5.0\Interfaces and Polymorphism.deps.json
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Polymorphism\bin\Debug\net5.0\Interfaces and Polymorphism.runtimeconfig.json
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Polymorphism\bin\Debug\net5.0\Interfaces and Polymorphism.runtimeconfig.dev.json
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Polymorphism\bin\Debug\net5.0\Interfaces and Polymorphism.dll
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Polymorphism\bin\Debug\net5.0\Interfaces and Polymorphism.pdb
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Polymorphism\obj\Debug\net5.0\Interfaces and Polymorphism.csproj.AssemblyReference.cache
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Polymorphism\obj\Debug\net5.0\Interfaces and Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Polymorphism\obj\Debug\net5.0\Interfaces and Polymorphism.AssemblyInfoInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Polymorphism\obj\Debug\net5.0\Interfaces and Polymorphism.AssemblyInfo.cs
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Polymorphism\obj\Debug\net5.0\Interfaces and Polymorphism.csproj.CoreCompileInputs.cache
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Polymorphism\obj\Debug\net5.0\Interfaces and Polymorphism.dll
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Polymorphism\obj\Debug\net5.0\refint\Interfaces and Polymorphism.dll
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Polymorphism\obj\Debug\net5.0\Interfaces and Polymorphism.pdb
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Polymorphism\obj\Debug\net5.0\Interfaces and Polymorphism.genruntimeconfig.cache
+D:\DANE\C# Średnio-zaawansowany\Interfaces and Polymorphism\obj\Debug\net5.0\ref\Interfaces and Polymorphism.dll
